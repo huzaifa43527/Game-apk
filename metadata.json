@@ -1,0 +1,6 @@
+{
+  "name": "Number Guessing Game",
+  "description": "An interactive number guessing game featuring multiple difficulty levels, smart hints, dynamic range, time challenge, reverse guessing, daily challenge, achievements, and statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
